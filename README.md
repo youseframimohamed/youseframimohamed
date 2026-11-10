@@ -28,6 +28,6 @@ Projects will be listed here as I complete them.
 
 ## Contact
 
-LinkedIn: [Yousef Rami]([https://www.linkedin.com/in/YOUR-URL](https://www.linkedin.com/in/yousef-rami-mohamed)
+LinkedIn: [Yousef Rami]([linkedin.com/in/yousef-rami-mohamed)
 
 I am open to internships and graduate programmes in embedded software.
